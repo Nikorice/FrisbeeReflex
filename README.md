@@ -1,5 +1,5 @@
 # FrisbeeReflex
-Responsize Design Project (poster recreation)
+Responsive Design Project (poster recreation)
 
 Using a poster I designed awhile ago as my layout, I practiced layering elements with flexboxes and grids. 
 
